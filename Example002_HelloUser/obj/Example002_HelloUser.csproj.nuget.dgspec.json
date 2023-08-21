@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cheka\\Desktop\\C# second\\Example002_HelloUser\\Example002_HelloUser.csproj": {}
+    "c:\\Users\\Cheka\\Desktop\\C# second\\Example002_HelloUser\\Example002_HelloUser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cheka\\Desktop\\C# second\\Example002_HelloUser\\Example002_HelloUser.csproj": {
+    "c:\\Users\\Cheka\\Desktop\\C# second\\Example002_HelloUser\\Example002_HelloUser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cheka\\Desktop\\C# second\\Example002_HelloUser\\Example002_HelloUser.csproj",
+        "projectUniqueName": "c:\\Users\\Cheka\\Desktop\\C# second\\Example002_HelloUser\\Example002_HelloUser.csproj",
         "projectName": "Example002_HelloUser",
-        "projectPath": "C:\\Users\\Cheka\\Desktop\\C# second\\Example002_HelloUser\\Example002_HelloUser.csproj",
+        "projectPath": "c:\\Users\\Cheka\\Desktop\\C# second\\Example002_HelloUser\\Example002_HelloUser.csproj",
         "packagesPath": "C:\\Users\\Cheka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cheka\\Desktop\\C# second\\Example002_HelloUser\\obj\\",
+        "outputPath": "c:\\Users\\Cheka\\Desktop\\C# second\\Example002_HelloUser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cheka\\AppData\\Roaming\\NuGet\\NuGet.Config",
